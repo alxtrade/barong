@@ -1,0 +1,38 @@
+roles:
+  - superadmin
+  - admin
+  - accountant
+  - compliance
+  - support
+
+permissions:
+  admin:
+    read:
+    write:
+    create:
+    update:
+    manage:
+  accountant:
+    read:
+    write:
+    create:
+    update:
+    manage:
+  compliance:
+    read:
+    write:
+    create:
+    update:
+    manage:
+  superadmin:
+    read:
+    write:
+    create:
+    update:
+    manage:
+  support:
+    read:
+    write:
+    create:
+    update:
+    manage:
